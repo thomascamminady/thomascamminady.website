@@ -90,12 +90,12 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: top-left
+        title: Karlsruhe Institute of Technology
+        sub_title: Ph.D. Applied Mathematics
+        caption: September 2017 to January 2021
+        # quote: >
+          # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   # - title: A Little More About Me
