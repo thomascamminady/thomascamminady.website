@@ -86,12 +86,12 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-         - Creation of APIs that allow the automatic monitoring of hardware and software quality metrics.
-         - Time series analysis and sensor fusion for speed and power data (bike computers) and speed, location, and elevation data (running watches).
-         - Statistical analysis of sports related data and creation of interactive dashboards for visualization.
-         - Code generation for low-level hardware using Matlab.
-         - Code documentation and result summaries in Confluence.
-         - Sprint planning using Jira in an agile environment.
+          - Creation of APIs that allow the automatic monitoring of hardware and software quality metrics.
+          - Time series analysis and sensor fusion for various sources of data.
+          - Statistical analysis of sports related data and creation of interactive dashboards for visualization.
+          - Code generation for low-level hardware using Matlab.
+          - Code documentation and result summaries in Confluence.
+          - Sprint planning using Jira in an agile environment.
   - title: Education
     layout: list
     content:
@@ -110,19 +110,20 @@ content:
       - layout: top-left
         title: RWTH Aachen University
         sub_title: M.Sc. Computational Engineering Science
-        #caption: September 2017 to January 2021
+        caption: September 2013 to September 2015
         # quote: >
           # Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-       #  Description of qualification
+        description: | # this will include new lines to allow paragraphs
+          - Thesis: "Theory and application of numerical methods for fractional diffusion equations"
       - layout: top-left
         title: RWTH Aachen University
         sub_title: B.Sc. Computational Engineering Science
-        #caption: September 2017 to January 2021
+        caption: October 2009 to September 2013
+
         # quote: >
           # Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-       #  Description of qualification      
+        description: | # this will include new lines to allow paragraphs
+          - Thesis: "Improvement of the aerodynamic shape optimization by adjoint methods in an MDO process"  
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
