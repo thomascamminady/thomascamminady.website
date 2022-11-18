@@ -81,19 +81,24 @@ content:
       - layout: top-left
         title: Wahoo Fitness
         sub_title: Algorithm Developer
-        caption: Since April 2021
+        caption: Since March 2021
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
-        # description: | # this will include new lines to allow paragraphs
-        #   Description of role
+        description: | # this will include new lines to allow paragraphs
+         - Creation of APIs that allow the automatic monitoring of hardware and software quality metrics.
+         - Time series analysis and sensor fusion for speed and power data (bike computers) and speed, location, and elevation data (running watches).
+         - Statistical analysis of sports related data and creation of interactive dashboards for visualization.
+         - Code generation for low-level hardware using Matlab.
+         - Code documentation and result summaries in Confluence.
+         - Sprint planning using Jira in an agile environment.
   - title: Education
     layout: list
     content:
       - layout: top-left
         title: Karlsruhe Institute of Technology
         sub_title: Ph.D. Applied Mathematics
-        caption: September 2017 to January 2021
+        caption: September 2017 to March 2021
         # quote: >
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
