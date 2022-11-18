@@ -49,7 +49,7 @@ googlescholar_username: kczWHoQAAAAJ
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: #About Me (Use this to override about section title)
 about_profile_image: images/Camminady.jpg
 #about_content: | # this will include new lines to allow paragraphs
 #  Write an awesome description about yourself here.
