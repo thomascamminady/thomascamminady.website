@@ -16,7 +16,7 @@ email: bumqvy1v@duck.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
@@ -50,7 +50,7 @@ googlescholar_username: kczWHoQAAAAJ
 
 # About Section
 # about_title: #About Me (Use this to override about section title)
-about_profile_image: images/Camminady.jpg
+# about_profile_image: images/Camminady.jpg
 #about_content: | # this will include new lines to allow paragraphs
 #  Write an awesome description about yourself here.
 
