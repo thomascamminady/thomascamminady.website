@@ -78,7 +78,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Wahoo Fitness
         sub_title: Algorithm Developer
         caption: Since March 2021
@@ -95,7 +95,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Karlsruhe Institute of Technology
         sub_title: Ph.D. Applied Mathematics
         caption: September 2017 to March 2021
@@ -107,7 +107,7 @@ content:
           - Using concepts from machine learning and optimization theory, to automatically generate near- optimal sets of problem-dependent numerical parameters for the solution of advection problems.
           - I optimized the performance of research software on the HPC cluster of the Karlsruhe Institute of Technology via parameter studies and OpenMP.
           - For modules in the mathematics M.Sc. program (including Kinetic Theory and Uncertainty Quantification) and modules in the Computational Engineering Science B.Sc. program, I was a teaching assistant and substituted lectures.
-      - layout: top-left
+      - layout: left
         title: RWTH Aachen University
         sub_title: M.Sc. Computational Engineering Science
         caption: September 2013 to September 2015
@@ -115,7 +115,7 @@ content:
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           - Thesis: "Theory and application of numerical methods for fractional diffusion equations"
-      - layout: top-left
+      - layout: left
         title: RWTH Aachen University
         sub_title: B.Sc. Computational Engineering Science
         caption: October 2009 to September 2013
@@ -143,8 +143,8 @@ sass:
   sass_dir: _sass
   style: compressed
 
-plugins:
- - jekyll-seo-tag
+#plugins:
+# - jekyll-seo-tag
 
 exclude : [
   "Gemfile",
