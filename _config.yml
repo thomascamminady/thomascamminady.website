@@ -154,7 +154,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Journal Articles
+        title: Journal articles
 #        sub_title: Ph.D. Applied Mathematics
 #        caption: September 2017 to March 2021
         # quote: >
@@ -172,6 +172,30 @@ content:
           - [A new high-order fluid solver for tokamak edge plasma transport simulations based on a magnetic-field independent discretization](https://onlinelibrary.wiley.com/doi/abs/10.1002/ctpp.201700172),
             G. Giorgiani, **TC**, H. Bufferand, G. Ciraolo, P. Ghendrih, H. Guillard, H. Heumann, B. Nkonga, F. Schwander, E. Serre, and P. Tamain. Contributions to Plasma Physics, 58(6-8):688–695, 2018.
     
+      - layout: left
+        title: Conference proceedings 
+#        sub_title: Ph.D. Applied Mathematics
+#        caption: September 2017 to March 2021
+        # quote: >
+          # Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          - [Highly uniform quadrature sets for the discrete ordinates method](https://drive.google.com/file/d/1Rppj5fyGRVlmAQeUbMwnGfuZE5KIpEIT/view),
+            **TC**, Martin Frank, and Jonas Kusch. In Proc. Int. Conf. Mathematics and Computational Methods Applied to Nuclear Science and Engineering, pages 25–29, 2019. 
+          - [Nonclassical particle transport in heterogeneous materials](https://www.kns.org/files/int_paper/paper/MC2017_2017_1/P061S01-12CamminadyT.pdf),
+            **TC**, Martin Frank, and Edward W Larsen. In International Conference on Mathematics & Computational Methods Applied to Nuclear Science & Engineering, 2017. 
+          - [The equivalence of forward and backward nonclassical particle transport theories](www.kns.org/files/int_paper/paper/MC2017_2017_1/P020S01-03LarsenE.pdf),
+            Edward W Larsen, Martin Frank, and **TC**. In International Conference on Mathematics & Computational Methods Applied to Nuclear Science & Engineering, 2017.
+
+      - layout: left
+        title: Book chapters
+#        sub_title: Ph.D. Applied Mathematics
+#        caption: September 2017 to March 2021
+        # quote: >
+          # Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          - [Vorschlag für eine Abiturprüfungsaufgabe mit authentischem und relevantem Realitätsbezug](https://doi.org/10.1007/978-3-662-60815-9_8),
+            Maike Sube, **TC**, Martin Frank, and Christina Roeckerath. Springer Berlin Heidelberg, Berlin, Heidelberg, 2020.
+            URL https://doi.org/10.1007/978-3-662-60815-9_8
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
