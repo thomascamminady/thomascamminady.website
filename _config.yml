@@ -114,7 +114,7 @@ content:
         # quote: >
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          - Thesis: ["Theory and application of numerical methods for fractional diffusion equations"]%(https://github.com/thomascamminady/thomascamminady.github.io/raw/main/assets/CAMMINADY%20-%20Theory%20and%20application%20of%20numerical%20methods%20for%20fractional%20diffusion%20equations.pdf)
+          - Thesis: ["Theory and application of numerical methods for fractional diffusion equations"](https://github.com/thomascamminady/thomascamminady.github.io/raw/main/assets/CAMMINADY%20-%20Theory%20and%20application%20of%20numerical%20methods%20for%20fractional%20diffusion%20equations.pdf)
       - layout: left
         title: RWTH Aachen University
         sub_title: B.Sc. Computational Engineering Science
