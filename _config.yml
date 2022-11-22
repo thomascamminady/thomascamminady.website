@@ -87,7 +87,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Creation of APIs that allow the automatic monitoring of hardware and software quality metrics.
-          - Time series analysis and sensor fusion for various sources of data.
+          - Time series analysis and sensor fusion for various sources of data using Python.
           - Statistical analysis of sports related data and creation of interactive dashboards for visualization.
           - Code generation for low-level hardware using Matlab.
           - Code documentation and result summaries in Confluence.
