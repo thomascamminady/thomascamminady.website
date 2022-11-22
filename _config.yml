@@ -160,16 +160,17 @@ content:
         # quote: >
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          - [Mathematische Grundlagen der künstlichen Intelligenz im Schulunterricht](https://link.springer.com/article/10.1007/s00591-021-00310-x)
-            Sarah Schönbrodt, TC, and Martin Frank. Mathematische Grundlagen der künstlichen intelligenz im Schulunterricht. Mathematische Semesterberichte, pages 1–29, 2021.
-          - [Ray Effect Mitigation for the Discrete Ordinates Method Using Artificial Scattering](https://doi.org/10.1080/00295639.2020.1730665)
-            Martin Frank, Jonas Kusch, TC, and Cory D. Hauck. Nuclear Science and Engineering, 194(11):971–988, 2020.
-          - [Ray effect mitigation for the discrete ordinates method through quadrature rotation](http://www.sciencedirect.com/science/article/pii/S0021999119300415) 
-            TC, Martin Frank, Kerstin Küpper, and Jonas Kusch. Journal of Computational Physics, 382:105 – 123, 2019. 
-          - [A spectral galerkin method for the fractional order diffusion and wave equation](https://link.springer.com/article/10.1007/s12572-018-0208-y) 
-            TC and Martin Frank. International Journal of Advances in Engineering Sciences and Applied Mathematics, 10(1): 90–104, 2018.
-          - [A new high-order fluid solver for tokamak edge plasma transport simulations based on a magnetic-field independent discretization](https://onlinelibrary.wiley.com/doi/abs/10.1002/ctpp.201700172)
-            G. Giorgiani, TC, H. Bufferand, G. Ciraolo, P. Ghendrih, H. Guillard, H. Heumann, B. Nkonga, F. Schwander, E. Serre, and P. Tamain. A new high-order fluid solver for tokamak edge plasma transport simulations based on a magnetic-field independent discretization. Contributions to Plasma Physics, 58(6-8):688–695, 2018.
+          - [Mathematische Grundlagen der künstlichen Intelligenz im Schulunterricht](https://link.springer.com/article/10.1007/s00591-021-00310-x),
+            Sarah Schönbrodt, **TC**, and Martin Frank. Mathematische Semesterberichte, pages 1–29, 2021.
+          - [Ray Effect Mitigation for the Discrete Ordinates Method Using Artificial Scattering](https://doi.org/10.1080/00295639.2020.1730665),
+
+            Martin Frank, Jonas Kusch, **TC**, and Cory D. Hauck. Nuclear Science and Engineering, 194(11):971–988, 2020.
+          - [Ray effect mitigation for the discrete ordinates method through quadrature rotation](http://www.sciencedirect.com/science/article/pii/S0021999119300415),
+            **TC**, Martin Frank, Kerstin Küpper, and Jonas Kusch. Journal of Computational Physics, 382:105 – 123, 2019. 
+          - [A spectral galerkin method for the fractional order diffusion and wave equation](https://link.springer.com/article/10.1007/s12572-018-0208-y),
+            **TC** and Martin Frank. International Journal of Advances in Engineering Sciences and Applied Mathematics, 10(1): 90–104, 2018.
+          - [A new high-order fluid solver for tokamak edge plasma transport simulations based on a magnetic-field independent discretization](https://onlinelibrary.wiley.com/doi/abs/10.1002/ctpp.201700172),
+            G. Giorgiani, **TC**, H. Bufferand, G. Ciraolo, P. Ghendrih, H. Guillard, H. Heumann, B. Nkonga, F. Schwander, E. Serre, and P. Tamain. Contributions to Plasma Physics, 58(6-8):688–695, 2018.
     
   # - title: A Little More About Me
   #   layout: text
