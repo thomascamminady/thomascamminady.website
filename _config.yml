@@ -92,6 +92,24 @@ content:
           - Code generation for low-level hardware using Matlab.
           - Code documentation and result summaries in Confluence.
           - Sprint planning using Jira in an agile environment.
+      - layout: left
+        title: Steinbuch Centre for Computing, Karlsruhe Institute of Technology
+        sub_title: Scientific Staff 
+        caption: September 2017 - March 2021
+        description: |
+          - Research in the field of kinetic theory, numerical mathematics, and machine learning. This encompasses the development of new algorithms to solve transport problems (e.g., the transport equation for radiation therapy), their implementation, and their analysis.
+          - Using concepts from machine learning and optimization theory, to automatically generate near-optimal sets of problem- dependent numerical parameters for the solution of advection problems.
+          - I optimized the performance of research software on the HPC cluster of the Karlsruhe Institute of Technology via parameter studies and OpenMP.
+          - For modules in the mathematics M.Sc. program (including Kinetic Theory and Uncertainty Quantification) and modules in the Computational Engineering Science B.Sc. program, I was a teaching assistant and substituted lectures.
+      - layout: left
+        title: Mathematical Center for Computational Engineering Science, RWTH Aachen University
+        sub_title: Scientific Staff 
+        caption: March 2015 - September 2017
+        description: |
+          - Research in the field of kinetic theory, numerical mathematics, and machine learning. This encompasses the development of new algorithms to solve transport problems (e.g., the transport equation for radiation therapy), their implementation, and their analysis.
+          - Help with lectures in the Computational Engineering Module.
+          - Presentations at international conferences.
+
   - title: Education
     layout: list
     content:
