@@ -195,7 +195,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - [Vorschlag für eine Abiturprüfungsaufgabe mit authentischem und relevantem Realitätsbezug](https://doi.org/10.1007/978-3-662-60815-9_8),
             Maike Sube, **TC**, Martin Frank, and Christina Roeckerath. Springer Berlin Heidelberg, Berlin, Heidelberg, 2020.
-            URL https://doi.org/10.1007/978-3-662-60815-9_8
+         
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
